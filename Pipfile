@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 dotenv = "*"
 language-tool-python = "*"
+markdown = "*"
+nh3 = "*"
 
 [dev-packages]
 
